@@ -1,34 +1,19 @@
 .myWrapper{
   background: green;
   gap: 8px;
-  h2 {
-    color: white;
-    font-family: "Proxima Nova";
-  }
+  color: white;
+  font-family: "Proxima Nova";
 }
 
 .welcomeBanner{
   background: blue;
   gap: 8px;
-  h1 {
-    color: yellow;
-    font-family: "Proxima Nova";
-  }
-  p {
-    color: white;
-    font-family: "Proxima Nova";
-  }
+  font-family: "Proxima Nova";
 }
 
 .interestsBanner{
   background: orange;
   gap: 8px;
-  h1 {
-    color: yellow;
-    font-family: "Proxima Nova";
-  }
-  li {
-    color: white;
-    font-family: "Proxima Nova";
-  }
+  color: white;
+  font-family: "Proxima Nova";
 }
